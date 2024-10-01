@@ -65,5 +65,13 @@ Segurança: É oferecida ferramentas de segurança que atende a necessidade do c
 
 Governança: Auditoria (log) baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de resolução de problemas.
 
+
+Tipos de Serviços de Nuvem
+IaaS (Infraestrutura como serviço): Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de provedor de nuvem. Onde o cliente se envolve mais, em configuração, monitoramento, backup, etc. Maior Gestão.
+
+PaaS (Plataforma como serviço): Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software. Sem focar no gerenciamento da infraestrutura subjacente. Gestão Intermediária
+
+SaaS (Software como serviço): Os usuários se conectam e usam aplicativos em base pela internet: por exemplo, Microsoft Office 365, e-mail e calendários. Menor Gestão.
+
 Gerenciabilidade: Diz respeito de gerenciar os recursos presentes na nuvem. Ex. Escalar automaticamente a implantação de recursos com base na necessidade.
 Implantação de recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual e também podendo gerenciar o seu ambiente de nuvem por meio do Portal ou linha de comando remete.
