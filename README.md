@@ -53,11 +53,17 @@ Alta Disponibilidade: Um sistema que está sempre funcionando, recursos disponí
 99,95% -> 5 min -> 21,6 min -> 4,38h
 99,99% -> 1,01 min -> 4,32 min -> 52,56 min
 99,999% -> 6 seg -> 25,9 seg -> 5,26 min
+
 Escalabilidade: Ajustar a capacidade de armazenamento/processamento/RAM conforme a demanda, se alguma máquina usar demais, poderá aumentar, se usar menos, poderá diminuir. (Crescimento Vertical).
+
 Elasticidade: Se acontecer um grande aumento de demanda inesperada, seus recursos implantados podem ser expandidos (automaticamente ou manualmente). (Crescimento Horizontal)
+
 Confiabilidade: Devido ao design descentralizado. A nuvem naturalmente dá suporte a uma infraestrutura confiável e resiliente e também permite que tenha recursos implantados em várias partes do mundo.
+
 Previsibilidade: Permite que avance com a confiança, seja no desempenho ou custo. Ambas são influenciadas pelo Microsoft Azure Well-Architected Framework
 Segurança: É oferecida ferramentas de segurança que atende a necessidade do cliente, porém importante lembrar que a implementação delas devem ser realizadas pelo cliente.
+
 Governança: Auditoria (log) baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de resolução de problemas.
+
 Gerenciabilidade: Diz respeito de gerenciar os recursos presentes na nuvem. Ex. Escalar automaticamente a implantação de recursos com base na necessidade.
 Implantação de recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual e também podendo gerenciar o seu ambiente de nuvem por meio do Portal ou linha de comando remete.
